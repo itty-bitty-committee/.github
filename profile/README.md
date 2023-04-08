@@ -20,7 +20,7 @@ is essential for disabled users and
 ## What
 
 The _itty bitty_ Committee is providing resources to modify styles that increase
-the accessibility of websites that are contributed by the community.
+the accessibility of websites through contributions by the community.
 
 Improvements can be installed individually
 ([like wider scrollbars](https://github.com/itty-bitty-committee/scrollbar)) or
