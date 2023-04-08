@@ -17,7 +17,7 @@ is essential for disabled users and
 
 **Exclusion _is_ and _always will be_ unacceptable!**
 
-# What
+## What
 
 The _itty bitty_ Committee is providing resources to modify styles that increase
 the accessibility of websites that are contributed by the community.
