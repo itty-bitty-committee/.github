@@ -33,9 +33,10 @@ when possible.
 
 If there is a website with accessibility features that you would like to see
 improved, please
-[**submit a request**](https://github.com/itty-bitty-committee)! A member of The
-_itty bitty_ Committee will review your submission and work with the community
-to include your improvement. Or if you can, please
+[**submit a request**](https://github.com/itty-bitty-committee)!
+
+A member of The _itty bitty_ Committee will review your submission and work with
+the community to include your improvement. Or if you can, please
 [contribute a solution](#contribute) instead.
 
 ## Contribute
