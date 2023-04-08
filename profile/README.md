@@ -26,8 +26,8 @@ Improvements can be installed individually
 ([like wider scrollbars](https://github.com/itty-bitty-committee/scrollbar)) or
 bundled with
 [all accessibility styles](https://github.com/itty-bitty-committee/itty-bitty)
-that have been contributed so far. Modifications are also customizable when
-possible.
+that have been contributed so far. Modifications will always be customizable
+when possible.
 
 ## Submit
 
