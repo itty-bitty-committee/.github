@@ -29,7 +29,14 @@ bundled with
 that have been contributed so far. Modifications are also customizable when
 possible.
 
-## Contributing
+## Submit
+
+If there is a website with accessibility features that you would like to see
+improved, please [submit a request](https://github.com/itty-bitty-committee) or
+if you can, [contribute a solution](#contributing)! Otherwise a member of The
+_itty bitty_ Committee will review your submission and work with the community
+to include your improvement.
+
 
 Component improvements are separated into individual repos and are compiled into
 the [itty-bitty](https://github.com/itty-bitty-committee/itty-bitty) bundle when
