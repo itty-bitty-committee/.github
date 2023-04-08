@@ -37,15 +37,17 @@ if you can, [contribute a solution](#contributing)! Otherwise a member of The
 _itty bitty_ Committee will review your submission and work with the community
 to include your improvement.
 
+## Contribute
 
 Component improvements are separated into individual repos and are compiled into
 the [itty-bitty](https://github.com/itty-bitty-committee/itty-bitty) bundle when
-merged.
+merged. Documentation for contributing is available per repo.
 
-Documentation for contributing is available per repo. If a repo does not exist
-for the component you would like to contribute an accessibility improvement for,
-please submit a discussion topic detailing the component, why and how it should
-be modified, and an example platform that would benefit from the modification.
+If a repo does not exist for the component you would like to contribute an
+accessibility improvement for, please
+[submit a request](https://github.com/itty-bitty-committee) detailing the
+component, why and how it should be modified, and an example platform that would
+benefit from the modification.
 
 #### Resources
 
